@@ -46,7 +46,7 @@ The dashboard enables data-driven decision-making by presenting patterns, trends
 
 ## Project Files
 
-- **Power BI Dashboard:** [BlinkITDashBoard.pbix](./BlinkITDashBoard.pbix)
+- **Power BI Dashboard:** [BlinkITDashBoard.pbix](https://github.com/RahulBairagi16/BLINKIT-Dashboard/blob/main/BlinkITDashBoard.pdf)
 
 ---
 
